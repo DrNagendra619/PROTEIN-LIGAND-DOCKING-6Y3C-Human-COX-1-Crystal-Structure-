@@ -1,0 +1,2 @@
+# PROTEIN-LIGAND-DOCKING-6Y3C-Human-COX-1-Crystal-Structure-
+PROTEIN LIGAND DOCKING 6Y3C = Human COX-1 Crystal Structure 
