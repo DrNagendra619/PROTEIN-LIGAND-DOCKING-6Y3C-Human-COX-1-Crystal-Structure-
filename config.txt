@@ -1,0 +1,11 @@
+receptor = Cox_Prot.pdbqt
+ligand = Lig.pdbqt
+center_x = -32.96
+center_y = -51.042
+center_z = -5.625
+size_x = 126
+size_y = 126
+size_z = 126
+
+out = out.pdbqt
+log = log.txt
